@@ -1,27 +1,25 @@
-<h1 align="center">Olá 👋 Eu sou a Sofia Alamini</h1>
+<h1 align="center">Sofia Alamini</h1>
 
 <p align="center">
-Desenvolvedora Front-End em formação • Engenharia de Software • Brasil 🇧🇷
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=Desenvolvedora+Front-End;Estudante+de+Engenharia+de+Software;React+%7C+TypeScript+%7C+UI+Moderna" />
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" />
 </p>
 
 ---
 
-## 👩‍💻 Sobre mim
+## ✨ Sobre mim
 
-💻 Apaixonada por desenvolvimento Front-End  
-🎯 Foco em React, TypeScript e interfaces modernas  
-🚀 Sempre buscando evoluir tecnicamente  
-✨ Gosto de código organizado e UI limpa  
+Sou estudante de Engenharia de Software (início em 2024) com foco em desenvolvimento Front-End moderno.
 
-Atualmente em busca de oportunidade de estágio ou posição júnior na área de desenvolvimento.
+Gosto de criar interfaces organizadas, responsivas e visualmente bem estruturadas.  
+Estou em constante evolução técnica e busco minha primeira oportunidade na área de tecnologia.
 
 ---
 
-## 🛠 Stack Tecnológica
+## 🧠 Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -33,35 +31,35 @@ Atualmente em busca de oportunidade de estágio ou posição júnior na área de
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 SFP Hub  
-Aplicação com React + TypeScript + Tailwind focada em organização e responsividade.  
-🔗 https://sfp-hub.vercel.app  
+<div align="center">
+
+<a href="https://sfp-hub.vercel.app">
+  <img src="https://img.shields.io/badge/SFP%20Hub-React%20%7C%20TypeScript%20%7C%20Tailwind-BB86FC?style=for-the-badge"/>
+</a>
+
+<a href="https://izes.vercel.app">
+  <img src="https://img.shields.io/badge/IZES-React%20%7C%20TypeScript%20%7C%20UI-8A2BE2?style=for-the-badge"/>
+</a>
+
+<a href="https://petfy-topaz.vercel.app">
+  <img src="https://img.shields.io/badge/Petfy-HTML%20%7C%20CSS%20%7C%20JS-6A0DAD?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
-### 🔹 IZES  
-Projeto com foco em UI moderna e reutilização de componentes.  
-🔗 https://izes.vercel.app  
-
----
-
-### 🔹 Petfy  
-Projeto acadêmico com HTML, CSS e JavaScript.  
-🔗 https://petfy-topaz.vercel.app  
-
----
-
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas
 
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=sofiaalamini&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
+  src="https://github-readme-stats.vercel.app/api?username=sofiaalamini&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
   height="170"
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaalamini&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaalamini&layout=compact&theme=tokyonight&hide_border=true" 
   height="170"
 />
 
@@ -69,7 +67,7 @@ Projeto acadêmico com HTML, CSS e JavaScript.
 
 ---
 
-## 📈 Atividade
+## 📈 Atividade no GitHub
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=sofiaalamini&theme=tokyo-night&hide_border=true"
@@ -77,29 +75,29 @@ Projeto acadêmico com HTML, CSS e JavaScript.
 
 ---
 
-## 🎓 Certificações
+## 🎯 Objetivo Profissional
 
-• React do Zero a Maestria — Udemy  
-• TypeScript do básico ao avançado — Udemy  
-• JavaScript do básico ao avançado — Udemy  
-• Formação Front-End Completa — Udemy  
-• Discover — Rocketseat  
-• Inglês Avançado — CCAA  
+Busco oportunidade de estágio ou posição júnior para:
 
----
-
-## 🎯 Objetivo
-
-Construir interfaces modernas, participar de projetos reais e evoluir constantemente como desenvolvedora.
+• Contribuir com projetos reais  
+• Evoluir tecnicamente em ambiente colaborativo  
+• Aplicar boas práticas de desenvolvimento  
+• Crescer como desenvolvedora Front-End  
 
 ---
 
 ## 📫 Contato
 
-📧 sofia.alamini06@gmail.com  
+<div align="center">
+
+<a href="mailto:sofia.alamini06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-BB86FC?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <p align="center">
-✨ Transformando ideias em interfaces modernas e bem estruturadas.
+  💜 Transformando ideias em interfaces modernas.
 </p>
